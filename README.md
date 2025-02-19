@@ -5,7 +5,7 @@
         <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/the-whole-fruit/manifesto"></a>
     <a href="https://github.com/the-whole-fruit/manifesto/contributors">
         <img src="https://img.shields.io/github/contributors/the-whole-fruit/manifesto" alt="Contributors" /></a>
-    <a href="https://github.com/the-whole-fruit/manifesto">
+    <a href="https://github.com/the-whole-fruit/manifesto/stargazers">
         <img alt="GitHub stars" src="https://img.shields.io/github/stars/the-whole-fruit/manifesto"></a>
     <a href="https://github.com/the-whole-fruit/manifesto">
         <img src="https://img.shields.io/badge/writing%20standard-the%20whole%20fruit-brightgreen"
